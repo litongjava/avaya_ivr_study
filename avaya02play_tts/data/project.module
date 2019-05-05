@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module category="" descriptorversion="1.0" entrypoint="avaya02play_tts/Start" forcesubdialogcall="false" frameworkversion="07.00.18.01" iconlarge="icons/defaultapplicationlg.gif" iconsmall="icons/defaultapplicationsm.gif" modifyInputs="false" modifyOutputs="false" nature="com.avaya.sce.core.speechnature" outputmultipart="false" paramasnamelist="false" provider="" submitmethod="get" version="1.0.0" webname="avaya02play_tts">
+    <description/>
+    <language name="chinese" root="zh-cn"/>
+    <dependencies/>
+</module>

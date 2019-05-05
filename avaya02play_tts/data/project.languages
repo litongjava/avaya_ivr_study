@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ProjectLanguages>
+    <language asr="zh-cn" localization="zh-cn" localizationVersion="3.1.5" name="chinese" stdPhrasesInstalled="false" stdPhrasesLocation="LOCAL" tts="zh-cn"/>
+</ProjectLanguages>
